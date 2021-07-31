@@ -62,8 +62,3 @@ User Enters --> See you / see you later/ bye --> bot predicts tag='goodbye' --> 
 ### For the Web version (uses Flask-python):  
  ``` python flask_app.py ```
  
-
-
-## Watch the demo here:  
-[![Demo for PVPP Assistant](https://img.youtube.com/vi/duDOyhrlYYw/0.jpg)](http://www.youtube.com/watch?v=duDOyhrlYYw "PVPPCOE Assistant")
-
